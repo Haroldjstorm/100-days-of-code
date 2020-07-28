@@ -140,8 +140,8 @@ Basic JavaScript
     -[]Use Recursion to Create a Countdown
     -[]Use Recursion to Create a Range of Numbers
 
-    -[]ES6
-    0/31
+ES6
+    -[] 0/31
     -[]Introduction to the ES6 Challenges
     -[]Explore Differences Between the var and let Keywords
     -[]Compare Scopes of the var and let Keywords
@@ -175,8 +175,8 @@ Basic JavaScript
     -[]Handle a Fulfilled Promise with then
     -[]Handle a Rejected Promise with catch
 
-    -[]Regular Expressions
-    0/33
+Regular Expressions
+    -[]    0/33
     -[]Introduction to the Regular Expression Challenges
     -[]Using the Test Method
     -[]Match Literal Strings
@@ -212,8 +212,8 @@ Basic JavaScript
     -[]Use Capture Groups to Search and Replace
     -[]Remove Whitespace from Start and End
 
-    -[]Debugging
-    0/12
+Debugging
+     -[] 0/12
 
     -[]Introduction to the Debugging Challenges
 
@@ -230,8 +230,8 @@ Basic JavaScript
     -[]Use Caution When Reinitializing Variables Inside a Loop
     -[]Prevent Infinite Loops with a Valid Terminal Condition
 
-    -[]Basic Data Structures
-    -[]0/20
+Basic Data Structures
+    -[] 0/20
 
     -[]Introduction to the Basic Data Structure Challenges
     -[]Use an Array to Store a Collection of Data
@@ -255,8 +255,9 @@ Basic JavaScript
     -[]Generate an Array of All Object Keys with Object.keys()
     -[]Modify an Array Stored in an Object
 
-    -[]Basic Algorithm Scripting
-    0/16
+
+Basic Algorithm Scripting
+    -[] 0/16
     -[]Introduction to Basic Algorithm Scripting
     -[]Convert Celsius to Fahrenheit
     -[]Reverse a String
@@ -275,8 +276,8 @@ Basic JavaScript
     -[]Mutations
     -[]Chunky Monkey
 
-    -[]Object Oriented Programming
-    0/26
+Object Oriented Programming
+    -[] 0/26
 
     -[]Introduction to the Object Oriented Programming Challenges
     -[]Create a Basic JavaScript Object
@@ -307,7 +308,7 @@ Basic JavaScript
     -[]Use an IIFE to Create a Module
 
     -[]Functional Programming
-    0/24
+    -[] 0/24
 
     -[]Introduction to the Functional Programming Challenges
     -[]Learn About Functional Programming
@@ -335,8 +336,8 @@ Basic JavaScript
     -[]Use the some Method to Check that Any Elements in an Array Meet a Criteria
     -[]Introduction to Currying and Partial Application
 
-    -[]Intermediate Algorithm Scripting
-    0/21
+Intermediate Algorithm Scripting
+    -[] 0/21
 
     -[]Introduction to the Intermediate Algorithm Scripting Challenges
     -[]Sum All Numbers in a Range
@@ -361,8 +362,8 @@ Basic JavaScript
     -[]Make a Person
     -[]Map the Debris
 
-    -[]JavaScript Algorithms and Data Structures Projects
-    0/5
+ JavaScript Algorithms and Data Structures Projects
+    -[] 0/5
 
     -[]Introduction to the JavaScript Algorithms and Data Structures Projects
     -[]Palindrome Checker
