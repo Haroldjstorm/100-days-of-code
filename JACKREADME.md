@@ -10,11 +10,11 @@
 
 ## Tasks
 
-    -[] Plan my 100 Days
-    -[] Organise a plan for each task within the plan
-    -[] Tweet that i have started the challenge
-    -[] Get Con set up with the challenge 
-    -[] Organise the README and seperate areas for the tasks 
+    -[ ] Plan my 100 Days
+    -[ ] Organise a plan for each task within the plan
+    -[ ] Tweet that i have started the challenge
+    -[ ] Get Con set up with the challenge 
+    -[ ] Organise the README and seperate areas for the tasks 
 
 ## Plan for the 100 Days 
 
@@ -23,7 +23,7 @@
 
 ### JAVA 
 
-    -[] JavaScript Algorithms and Data Structures Certification (300 hours)
+    -[ ] JavaScript Algorithms and Data Structures Certification (300 hours)
 
 Basic JavaScript
     -[] 0/110
