@@ -10,11 +10,11 @@
 
 ## Tasks
 
-    -[ ]   Plan my 100 Days
-    -[ ]   Organise a plan for each task within the plan
+    -[x]   Plan my 100 Days
+    -[x]   Organise a plan for each task within the plan
     -[ ]   Tweet that i have started the challenge
     -[ ]   Get Con set up with the challenge 
-    -[ ]   Organise the README and seperate areas for the tasks 
+    -[x]   Organise the README and seperate areas for the tasks 
 
 ## Plan for the 100 Days 
 
